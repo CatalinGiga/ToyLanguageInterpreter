@@ -10,6 +10,17 @@ This project implements a toy programming language interpreter with the followin
 - Maven-based project structure
 - Java 17+ compatibility
 
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/Screenshot%202025-04-29%20110526.png)
+
+### Program Execution
+![Program Execution](screenshots/Screenshot%202025-04-29%20110603.png)
+
+### Program Output
+![Program Output](screenshots/Screenshot%202025-04-29%20110629.png)
+
 ## Prerequisites
 
 - Java 17 or higher
