@@ -1,0 +1,4848 @@
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+{int v; {v=2; print(v)}}
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+{v=2; print(v)}
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+{v=2; print(v)}
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+{v=2; print(v)}
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+{v=2; print(v)}
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+{int v; {v=2; print(v)}}
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+{v=2; print(v)}
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+{v=2; print(v)}
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+{v=2; print(v)}
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+{v=2; print(v)}
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+Original Program:
+{int v; {v=2; print(v)}}
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 1]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v;
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int v
+v=2;
+print(v)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2;
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+v=2
+print(v)
+SymTable:
+{v=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(v)
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{v=2}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[2]
+SemaphoreTable:
+{}
+Original Program:
+int v;
+v=2;
+print(v)

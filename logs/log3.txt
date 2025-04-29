@@ -1,0 +1,468 @@
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int a
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int a
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{a=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{a=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int b
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{a=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+int b
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{a=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{a=0, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+SymTable:
+{a=0, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+a=(2 * (3 + 5))
+b=(a + 1);
+print(b)
+SymTable:
+{a=0, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+a=(2 * (3 + 5))
+b=(a + 1);
+print(b)
+SymTable:
+{a=0, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+b=(a + 1);
+print(b)
+SymTable:
+{a=16, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+b=(a + 1);
+print(b)
+SymTable:
+{a=16, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+b=(a + 1)
+print(b)
+SymTable:
+{a=16, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+b=(a + 1)
+print(b)
+SymTable:
+{a=16, b=0}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(b)
+SymTable:
+{a=16, b=17}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+print(b)
+SymTable:
+{a=16, b=17}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
+------------------------------------------------------
+[ID: 0]
+ExeStack:
+
+SymTable:
+{a=16, b=17}
+FileTable:
+{}
+HeapTable:
+{}
+Out:
+[17]
+SemaphoreTable:
+{}
+LockTable:
+
+LatchTable:
+
+Original Program:
+int a;
+int b;
+a=(2 * (3 + 5));
+b=(a + 1);
+print(b)
