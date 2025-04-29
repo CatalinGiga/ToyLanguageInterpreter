@@ -1,5 +1,7 @@
 # Toy Language Interpreter
 
+![toyLanguageInterpreter](https://github.com/user-attachments/assets/32e77e51-3a69-4329-a843-f6f8e29238b6)
+
 A Java-based toy language interpreter project that provides a simple programming language implementation with a graphical user interface built using JavaFX.
 
 ## Project Overview
